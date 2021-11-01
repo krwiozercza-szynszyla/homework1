@@ -1,5 +1,4 @@
-from zadania.zadanie1 import uzupelnij
-
+from zadanie import uzupelnij
 
 def test_uzupelnij():
     assert uzupelnij() == 42
